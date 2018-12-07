@@ -134,6 +134,13 @@ enableEmoji   = true
   identifier = "fa fa-envelope-o"
   weight = 3
 
+
+[[menu.main]]
+  name = "Contributors"
+  url = "/contributors/"
+  identifier = "fa fa-users"
+  weight = 5
+  
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
